@@ -1,0 +1,11 @@
+C:\Users\44879682837\Documents\exercicio2\reciclagem\bin\Debug\netcoreapp2.2\reciclagem.deps.json
+C:\Users\44879682837\Documents\exercicio2\reciclagem\bin\Debug\netcoreapp2.2\reciclagem.runtimeconfig.json
+C:\Users\44879682837\Documents\exercicio2\reciclagem\bin\Debug\netcoreapp2.2\reciclagem.runtimeconfig.dev.json
+C:\Users\44879682837\Documents\exercicio2\reciclagem\bin\Debug\netcoreapp2.2\reciclagem.dll
+C:\Users\44879682837\Documents\exercicio2\reciclagem\bin\Debug\netcoreapp2.2\reciclagem.pdb
+C:\Users\44879682837\Documents\exercicio2\reciclagem\obj\Debug\netcoreapp2.2\reciclagem.csprojAssemblyReference.cache
+C:\Users\44879682837\Documents\exercicio2\reciclagem\obj\Debug\netcoreapp2.2\reciclagem.csproj.CoreCompileInputs.cache
+C:\Users\44879682837\Documents\exercicio2\reciclagem\obj\Debug\netcoreapp2.2\reciclagem.AssemblyInfoInputs.cache
+C:\Users\44879682837\Documents\exercicio2\reciclagem\obj\Debug\netcoreapp2.2\reciclagem.AssemblyInfo.cs
+C:\Users\44879682837\Documents\exercicio2\reciclagem\obj\Debug\netcoreapp2.2\reciclagem.dll
+C:\Users\44879682837\Documents\exercicio2\reciclagem\obj\Debug\netcoreapp2.2\reciclagem.pdb
