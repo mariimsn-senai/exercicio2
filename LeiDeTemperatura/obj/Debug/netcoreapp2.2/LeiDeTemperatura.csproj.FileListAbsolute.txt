@@ -1,0 +1,11 @@
+C:\Users\44879682837\Documents\exercicio2\LeiDeTemperatura\obj\Debug\netcoreapp2.2\LeiDeTemperatura.csprojAssemblyReference.cache
+C:\Users\44879682837\Documents\exercicio2\LeiDeTemperatura\obj\Debug\netcoreapp2.2\LeiDeTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\44879682837\Documents\exercicio2\LeiDeTemperatura\obj\Debug\netcoreapp2.2\LeiDeTemperatura.AssemblyInfoInputs.cache
+C:\Users\44879682837\Documents\exercicio2\LeiDeTemperatura\obj\Debug\netcoreapp2.2\LeiDeTemperatura.AssemblyInfo.cs
+C:\Users\44879682837\Documents\exercicio2\LeiDeTemperatura\bin\Debug\netcoreapp2.2\LeiDeTemperatura.deps.json
+C:\Users\44879682837\Documents\exercicio2\LeiDeTemperatura\bin\Debug\netcoreapp2.2\LeiDeTemperatura.runtimeconfig.json
+C:\Users\44879682837\Documents\exercicio2\LeiDeTemperatura\bin\Debug\netcoreapp2.2\LeiDeTemperatura.runtimeconfig.dev.json
+C:\Users\44879682837\Documents\exercicio2\LeiDeTemperatura\bin\Debug\netcoreapp2.2\LeiDeTemperatura.dll
+C:\Users\44879682837\Documents\exercicio2\LeiDeTemperatura\bin\Debug\netcoreapp2.2\LeiDeTemperatura.pdb
+C:\Users\44879682837\Documents\exercicio2\LeiDeTemperatura\obj\Debug\netcoreapp2.2\LeiDeTemperatura.dll
+C:\Users\44879682837\Documents\exercicio2\LeiDeTemperatura\obj\Debug\netcoreapp2.2\LeiDeTemperatura.pdb

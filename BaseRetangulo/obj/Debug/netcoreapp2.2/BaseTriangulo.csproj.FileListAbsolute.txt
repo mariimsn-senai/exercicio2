@@ -1,0 +1,11 @@
+C:\Users\44879682837\Documents\exercicio2\BaseRetangulo\bin\Debug\netcoreapp2.2\BaseTriangulo.deps.json
+C:\Users\44879682837\Documents\exercicio2\BaseRetangulo\bin\Debug\netcoreapp2.2\BaseTriangulo.runtimeconfig.json
+C:\Users\44879682837\Documents\exercicio2\BaseRetangulo\bin\Debug\netcoreapp2.2\BaseTriangulo.runtimeconfig.dev.json
+C:\Users\44879682837\Documents\exercicio2\BaseRetangulo\bin\Debug\netcoreapp2.2\BaseTriangulo.dll
+C:\Users\44879682837\Documents\exercicio2\BaseRetangulo\bin\Debug\netcoreapp2.2\BaseTriangulo.pdb
+C:\Users\44879682837\Documents\exercicio2\BaseRetangulo\obj\Debug\netcoreapp2.2\BaseTriangulo.csprojAssemblyReference.cache
+C:\Users\44879682837\Documents\exercicio2\BaseRetangulo\obj\Debug\netcoreapp2.2\BaseTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\44879682837\Documents\exercicio2\BaseRetangulo\obj\Debug\netcoreapp2.2\BaseTriangulo.AssemblyInfoInputs.cache
+C:\Users\44879682837\Documents\exercicio2\BaseRetangulo\obj\Debug\netcoreapp2.2\BaseTriangulo.AssemblyInfo.cs
+C:\Users\44879682837\Documents\exercicio2\BaseRetangulo\obj\Debug\netcoreapp2.2\BaseTriangulo.dll
+C:\Users\44879682837\Documents\exercicio2\BaseRetangulo\obj\Debug\netcoreapp2.2\BaseTriangulo.pdb
