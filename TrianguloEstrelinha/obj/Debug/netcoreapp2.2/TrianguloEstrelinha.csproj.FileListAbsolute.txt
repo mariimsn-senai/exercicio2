@@ -1,0 +1,11 @@
+C:\Users\44879682837\Documents\exercicio2\TrianguloEstrelinha\obj\Debug\netcoreapp2.2\TrianguloEstrelinha.csprojAssemblyReference.cache
+C:\Users\44879682837\Documents\exercicio2\TrianguloEstrelinha\obj\Debug\netcoreapp2.2\TrianguloEstrelinha.csproj.CoreCompileInputs.cache
+C:\Users\44879682837\Documents\exercicio2\TrianguloEstrelinha\obj\Debug\netcoreapp2.2\TrianguloEstrelinha.AssemblyInfoInputs.cache
+C:\Users\44879682837\Documents\exercicio2\TrianguloEstrelinha\obj\Debug\netcoreapp2.2\TrianguloEstrelinha.AssemblyInfo.cs
+C:\Users\44879682837\Documents\exercicio2\TrianguloEstrelinha\bin\Debug\netcoreapp2.2\TrianguloEstrelinha.deps.json
+C:\Users\44879682837\Documents\exercicio2\TrianguloEstrelinha\bin\Debug\netcoreapp2.2\TrianguloEstrelinha.runtimeconfig.json
+C:\Users\44879682837\Documents\exercicio2\TrianguloEstrelinha\bin\Debug\netcoreapp2.2\TrianguloEstrelinha.runtimeconfig.dev.json
+C:\Users\44879682837\Documents\exercicio2\TrianguloEstrelinha\bin\Debug\netcoreapp2.2\TrianguloEstrelinha.dll
+C:\Users\44879682837\Documents\exercicio2\TrianguloEstrelinha\bin\Debug\netcoreapp2.2\TrianguloEstrelinha.pdb
+C:\Users\44879682837\Documents\exercicio2\TrianguloEstrelinha\obj\Debug\netcoreapp2.2\TrianguloEstrelinha.dll
+C:\Users\44879682837\Documents\exercicio2\TrianguloEstrelinha\obj\Debug\netcoreapp2.2\TrianguloEstrelinha.pdb

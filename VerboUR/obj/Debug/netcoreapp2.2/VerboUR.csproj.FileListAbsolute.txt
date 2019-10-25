@@ -1,0 +1,11 @@
+C:\Users\44879682837\Documents\exercicio2\VerboUR\bin\Debug\netcoreapp2.2\VerboUR.deps.json
+C:\Users\44879682837\Documents\exercicio2\VerboUR\bin\Debug\netcoreapp2.2\VerboUR.runtimeconfig.json
+C:\Users\44879682837\Documents\exercicio2\VerboUR\bin\Debug\netcoreapp2.2\VerboUR.runtimeconfig.dev.json
+C:\Users\44879682837\Documents\exercicio2\VerboUR\bin\Debug\netcoreapp2.2\VerboUR.dll
+C:\Users\44879682837\Documents\exercicio2\VerboUR\bin\Debug\netcoreapp2.2\VerboUR.pdb
+C:\Users\44879682837\Documents\exercicio2\VerboUR\obj\Debug\netcoreapp2.2\VerboUR.csprojAssemblyReference.cache
+C:\Users\44879682837\Documents\exercicio2\VerboUR\obj\Debug\netcoreapp2.2\VerboUR.csproj.CoreCompileInputs.cache
+C:\Users\44879682837\Documents\exercicio2\VerboUR\obj\Debug\netcoreapp2.2\VerboUR.AssemblyInfoInputs.cache
+C:\Users\44879682837\Documents\exercicio2\VerboUR\obj\Debug\netcoreapp2.2\VerboUR.AssemblyInfo.cs
+C:\Users\44879682837\Documents\exercicio2\VerboUR\obj\Debug\netcoreapp2.2\VerboUR.dll
+C:\Users\44879682837\Documents\exercicio2\VerboUR\obj\Debug\netcoreapp2.2\VerboUR.pdb

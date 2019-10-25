@@ -1,0 +1,11 @@
+C:\Users\44879682837\Documents\exercicio2\Comparar2Nomes\obj\Debug\netcoreapp2.2\Comparar2Nomes.csprojAssemblyReference.cache
+C:\Users\44879682837\Documents\exercicio2\Comparar2Nomes\obj\Debug\netcoreapp2.2\Comparar2Nomes.csproj.CoreCompileInputs.cache
+C:\Users\44879682837\Documents\exercicio2\Comparar2Nomes\obj\Debug\netcoreapp2.2\Comparar2Nomes.AssemblyInfoInputs.cache
+C:\Users\44879682837\Documents\exercicio2\Comparar2Nomes\obj\Debug\netcoreapp2.2\Comparar2Nomes.AssemblyInfo.cs
+C:\Users\44879682837\Documents\exercicio2\Comparar2Nomes\bin\Debug\netcoreapp2.2\Comparar2Nomes.deps.json
+C:\Users\44879682837\Documents\exercicio2\Comparar2Nomes\bin\Debug\netcoreapp2.2\Comparar2Nomes.runtimeconfig.json
+C:\Users\44879682837\Documents\exercicio2\Comparar2Nomes\bin\Debug\netcoreapp2.2\Comparar2Nomes.runtimeconfig.dev.json
+C:\Users\44879682837\Documents\exercicio2\Comparar2Nomes\bin\Debug\netcoreapp2.2\Comparar2Nomes.dll
+C:\Users\44879682837\Documents\exercicio2\Comparar2Nomes\bin\Debug\netcoreapp2.2\Comparar2Nomes.pdb
+C:\Users\44879682837\Documents\exercicio2\Comparar2Nomes\obj\Debug\netcoreapp2.2\Comparar2Nomes.dll
+C:\Users\44879682837\Documents\exercicio2\Comparar2Nomes\obj\Debug\netcoreapp2.2\Comparar2Nomes.pdb

@@ -1,0 +1,11 @@
+C:\Users\44879682837\Documents\exercicio2\PesoDosPlanetas\obj\Debug\netcoreapp2.2\PesoDosPlanetas.csprojAssemblyReference.cache
+C:\Users\44879682837\Documents\exercicio2\PesoDosPlanetas\obj\Debug\netcoreapp2.2\PesoDosPlanetas.csproj.CoreCompileInputs.cache
+C:\Users\44879682837\Documents\exercicio2\PesoDosPlanetas\obj\Debug\netcoreapp2.2\PesoDosPlanetas.AssemblyInfoInputs.cache
+C:\Users\44879682837\Documents\exercicio2\PesoDosPlanetas\obj\Debug\netcoreapp2.2\PesoDosPlanetas.AssemblyInfo.cs
+C:\Users\44879682837\Documents\exercicio2\PesoDosPlanetas\bin\Debug\netcoreapp2.2\PesoDosPlanetas.deps.json
+C:\Users\44879682837\Documents\exercicio2\PesoDosPlanetas\bin\Debug\netcoreapp2.2\PesoDosPlanetas.runtimeconfig.json
+C:\Users\44879682837\Documents\exercicio2\PesoDosPlanetas\bin\Debug\netcoreapp2.2\PesoDosPlanetas.runtimeconfig.dev.json
+C:\Users\44879682837\Documents\exercicio2\PesoDosPlanetas\bin\Debug\netcoreapp2.2\PesoDosPlanetas.dll
+C:\Users\44879682837\Documents\exercicio2\PesoDosPlanetas\bin\Debug\netcoreapp2.2\PesoDosPlanetas.pdb
+C:\Users\44879682837\Documents\exercicio2\PesoDosPlanetas\obj\Debug\netcoreapp2.2\PesoDosPlanetas.dll
+C:\Users\44879682837\Documents\exercicio2\PesoDosPlanetas\obj\Debug\netcoreapp2.2\PesoDosPlanetas.pdb

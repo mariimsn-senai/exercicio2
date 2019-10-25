@@ -1,0 +1,11 @@
+C:\Users\44879682837\Documents\exercicio2\NumerosIguaisTriangulo\obj\Debug\netcoreapp2.2\NumerosIguaisTriangulo.csprojAssemblyReference.cache
+C:\Users\44879682837\Documents\exercicio2\NumerosIguaisTriangulo\obj\Debug\netcoreapp2.2\NumerosIguaisTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\44879682837\Documents\exercicio2\NumerosIguaisTriangulo\obj\Debug\netcoreapp2.2\NumerosIguaisTriangulo.AssemblyInfoInputs.cache
+C:\Users\44879682837\Documents\exercicio2\NumerosIguaisTriangulo\obj\Debug\netcoreapp2.2\NumerosIguaisTriangulo.AssemblyInfo.cs
+C:\Users\44879682837\Documents\exercicio2\NumerosIguaisTriangulo\bin\Debug\netcoreapp2.2\NumerosIguaisTriangulo.deps.json
+C:\Users\44879682837\Documents\exercicio2\NumerosIguaisTriangulo\bin\Debug\netcoreapp2.2\NumerosIguaisTriangulo.runtimeconfig.json
+C:\Users\44879682837\Documents\exercicio2\NumerosIguaisTriangulo\bin\Debug\netcoreapp2.2\NumerosIguaisTriangulo.runtimeconfig.dev.json
+C:\Users\44879682837\Documents\exercicio2\NumerosIguaisTriangulo\bin\Debug\netcoreapp2.2\NumerosIguaisTriangulo.dll
+C:\Users\44879682837\Documents\exercicio2\NumerosIguaisTriangulo\bin\Debug\netcoreapp2.2\NumerosIguaisTriangulo.pdb
+C:\Users\44879682837\Documents\exercicio2\NumerosIguaisTriangulo\obj\Debug\netcoreapp2.2\NumerosIguaisTriangulo.dll
+C:\Users\44879682837\Documents\exercicio2\NumerosIguaisTriangulo\obj\Debug\netcoreapp2.2\NumerosIguaisTriangulo.pdb

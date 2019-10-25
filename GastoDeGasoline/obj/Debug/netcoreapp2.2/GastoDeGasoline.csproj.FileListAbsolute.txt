@@ -1,0 +1,11 @@
+C:\Users\44879682837\Documents\exercicio2\GastoDeGasoline\bin\Debug\netcoreapp2.2\GastoDeGasoline.deps.json
+C:\Users\44879682837\Documents\exercicio2\GastoDeGasoline\bin\Debug\netcoreapp2.2\GastoDeGasoline.runtimeconfig.json
+C:\Users\44879682837\Documents\exercicio2\GastoDeGasoline\bin\Debug\netcoreapp2.2\GastoDeGasoline.runtimeconfig.dev.json
+C:\Users\44879682837\Documents\exercicio2\GastoDeGasoline\bin\Debug\netcoreapp2.2\GastoDeGasoline.dll
+C:\Users\44879682837\Documents\exercicio2\GastoDeGasoline\bin\Debug\netcoreapp2.2\GastoDeGasoline.pdb
+C:\Users\44879682837\Documents\exercicio2\GastoDeGasoline\obj\Debug\netcoreapp2.2\GastoDeGasoline.csprojAssemblyReference.cache
+C:\Users\44879682837\Documents\exercicio2\GastoDeGasoline\obj\Debug\netcoreapp2.2\GastoDeGasoline.csproj.CoreCompileInputs.cache
+C:\Users\44879682837\Documents\exercicio2\GastoDeGasoline\obj\Debug\netcoreapp2.2\GastoDeGasoline.AssemblyInfoInputs.cache
+C:\Users\44879682837\Documents\exercicio2\GastoDeGasoline\obj\Debug\netcoreapp2.2\GastoDeGasoline.AssemblyInfo.cs
+C:\Users\44879682837\Documents\exercicio2\GastoDeGasoline\obj\Debug\netcoreapp2.2\GastoDeGasoline.dll
+C:\Users\44879682837\Documents\exercicio2\GastoDeGasoline\obj\Debug\netcoreapp2.2\GastoDeGasoline.pdb

@@ -33,7 +33,7 @@ namespace BaseRetangulo
             altura=double.Parse(Console.ReadLine());
             
             diagonal = Math.Sqrt((Base * Base) + (altura * altura));
-            System.Console.WriteLine($" o resultado diametro é "+ diagonal);
+            System.Console.WriteLine($" o resultado diametro é "+ diagonal); 
 
 
 

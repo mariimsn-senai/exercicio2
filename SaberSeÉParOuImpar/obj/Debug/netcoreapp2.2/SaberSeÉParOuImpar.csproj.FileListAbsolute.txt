@@ -1,0 +1,11 @@
+C:\Users\44879682837\Documents\exercicio2\SaberSeÉParOuImpar\obj\Debug\netcoreapp2.2\SaberSeÉParOuImpar.csprojAssemblyReference.cache
+C:\Users\44879682837\Documents\exercicio2\SaberSeÉParOuImpar\obj\Debug\netcoreapp2.2\SaberSeÉParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\44879682837\Documents\exercicio2\SaberSeÉParOuImpar\obj\Debug\netcoreapp2.2\SaberSeÉParOuImpar.AssemblyInfoInputs.cache
+C:\Users\44879682837\Documents\exercicio2\SaberSeÉParOuImpar\obj\Debug\netcoreapp2.2\SaberSeÉParOuImpar.AssemblyInfo.cs
+C:\Users\44879682837\Documents\exercicio2\SaberSeÉParOuImpar\bin\Debug\netcoreapp2.2\SaberSeÉParOuImpar.deps.json
+C:\Users\44879682837\Documents\exercicio2\SaberSeÉParOuImpar\bin\Debug\netcoreapp2.2\SaberSeÉParOuImpar.runtimeconfig.json
+C:\Users\44879682837\Documents\exercicio2\SaberSeÉParOuImpar\bin\Debug\netcoreapp2.2\SaberSeÉParOuImpar.runtimeconfig.dev.json
+C:\Users\44879682837\Documents\exercicio2\SaberSeÉParOuImpar\bin\Debug\netcoreapp2.2\SaberSeÉParOuImpar.dll
+C:\Users\44879682837\Documents\exercicio2\SaberSeÉParOuImpar\bin\Debug\netcoreapp2.2\SaberSeÉParOuImpar.pdb
+C:\Users\44879682837\Documents\exercicio2\SaberSeÉParOuImpar\obj\Debug\netcoreapp2.2\SaberSeÉParOuImpar.dll
+C:\Users\44879682837\Documents\exercicio2\SaberSeÉParOuImpar\obj\Debug\netcoreapp2.2\SaberSeÉParOuImpar.pdb
