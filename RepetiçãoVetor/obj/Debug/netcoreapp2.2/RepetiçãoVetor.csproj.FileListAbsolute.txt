@@ -1,0 +1,11 @@
+C:\Users\44879682837\Documents\exercicio2\RepetiçãoVetor\bin\Debug\netcoreapp2.2\RepetiçãoVetor.deps.json
+C:\Users\44879682837\Documents\exercicio2\RepetiçãoVetor\bin\Debug\netcoreapp2.2\RepetiçãoVetor.runtimeconfig.json
+C:\Users\44879682837\Documents\exercicio2\RepetiçãoVetor\bin\Debug\netcoreapp2.2\RepetiçãoVetor.runtimeconfig.dev.json
+C:\Users\44879682837\Documents\exercicio2\RepetiçãoVetor\bin\Debug\netcoreapp2.2\RepetiçãoVetor.dll
+C:\Users\44879682837\Documents\exercicio2\RepetiçãoVetor\bin\Debug\netcoreapp2.2\RepetiçãoVetor.pdb
+C:\Users\44879682837\Documents\exercicio2\RepetiçãoVetor\obj\Debug\netcoreapp2.2\RepetiçãoVetor.csprojAssemblyReference.cache
+C:\Users\44879682837\Documents\exercicio2\RepetiçãoVetor\obj\Debug\netcoreapp2.2\RepetiçãoVetor.csproj.CoreCompileInputs.cache
+C:\Users\44879682837\Documents\exercicio2\RepetiçãoVetor\obj\Debug\netcoreapp2.2\RepetiçãoVetor.AssemblyInfoInputs.cache
+C:\Users\44879682837\Documents\exercicio2\RepetiçãoVetor\obj\Debug\netcoreapp2.2\RepetiçãoVetor.AssemblyInfo.cs
+C:\Users\44879682837\Documents\exercicio2\RepetiçãoVetor\obj\Debug\netcoreapp2.2\RepetiçãoVetor.dll
+C:\Users\44879682837\Documents\exercicio2\RepetiçãoVetor\obj\Debug\netcoreapp2.2\RepetiçãoVetor.pdb

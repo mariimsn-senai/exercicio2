@@ -1,0 +1,11 @@
+C:\Users\44879682837\Documents\exercicio2\ímparEimprima\obj\Debug\netcoreapp2.2\ímparEimprima.csprojAssemblyReference.cache
+C:\Users\44879682837\Documents\exercicio2\ímparEimprima\obj\Debug\netcoreapp2.2\ímparEimprima.csproj.CoreCompileInputs.cache
+C:\Users\44879682837\Documents\exercicio2\ímparEimprima\obj\Debug\netcoreapp2.2\ímparEimprima.AssemblyInfoInputs.cache
+C:\Users\44879682837\Documents\exercicio2\ímparEimprima\obj\Debug\netcoreapp2.2\ímparEimprima.AssemblyInfo.cs
+C:\Users\44879682837\Documents\exercicio2\ímparEimprima\bin\Debug\netcoreapp2.2\ímparEimprima.deps.json
+C:\Users\44879682837\Documents\exercicio2\ímparEimprima\bin\Debug\netcoreapp2.2\ímparEimprima.runtimeconfig.json
+C:\Users\44879682837\Documents\exercicio2\ímparEimprima\bin\Debug\netcoreapp2.2\ímparEimprima.runtimeconfig.dev.json
+C:\Users\44879682837\Documents\exercicio2\ímparEimprima\bin\Debug\netcoreapp2.2\ímparEimprima.dll
+C:\Users\44879682837\Documents\exercicio2\ímparEimprima\bin\Debug\netcoreapp2.2\ímparEimprima.pdb
+C:\Users\44879682837\Documents\exercicio2\ímparEimprima\obj\Debug\netcoreapp2.2\ímparEimprima.dll
+C:\Users\44879682837\Documents\exercicio2\ímparEimprima\obj\Debug\netcoreapp2.2\ímparEimprima.pdb

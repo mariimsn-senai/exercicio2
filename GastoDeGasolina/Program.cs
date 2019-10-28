@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GastoDeGasoline
+namespace GastoDeGasolina
 {
     class Program
     {
