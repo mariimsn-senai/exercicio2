@@ -1,0 +1,11 @@
+C:\Users\44879682837\Documents\exercicio2\RandonParImpar\obj\Debug\netcoreapp2.2\RandonParImpar.csprojAssemblyReference.cache
+C:\Users\44879682837\Documents\exercicio2\RandonParImpar\obj\Debug\netcoreapp2.2\RandonParImpar.csproj.CoreCompileInputs.cache
+C:\Users\44879682837\Documents\exercicio2\RandonParImpar\obj\Debug\netcoreapp2.2\RandonParImpar.AssemblyInfoInputs.cache
+C:\Users\44879682837\Documents\exercicio2\RandonParImpar\obj\Debug\netcoreapp2.2\RandonParImpar.AssemblyInfo.cs
+C:\Users\44879682837\Documents\exercicio2\RandonParImpar\bin\Debug\netcoreapp2.2\RandonParImpar.deps.json
+C:\Users\44879682837\Documents\exercicio2\RandonParImpar\bin\Debug\netcoreapp2.2\RandonParImpar.runtimeconfig.json
+C:\Users\44879682837\Documents\exercicio2\RandonParImpar\bin\Debug\netcoreapp2.2\RandonParImpar.runtimeconfig.dev.json
+C:\Users\44879682837\Documents\exercicio2\RandonParImpar\bin\Debug\netcoreapp2.2\RandonParImpar.dll
+C:\Users\44879682837\Documents\exercicio2\RandonParImpar\bin\Debug\netcoreapp2.2\RandonParImpar.pdb
+C:\Users\44879682837\Documents\exercicio2\RandonParImpar\obj\Debug\netcoreapp2.2\RandonParImpar.dll
+C:\Users\44879682837\Documents\exercicio2\RandonParImpar\obj\Debug\netcoreapp2.2\RandonParImpar.pdb
