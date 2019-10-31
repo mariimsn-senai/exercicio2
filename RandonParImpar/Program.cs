@@ -25,9 +25,9 @@ namespace RandonParImpar
                     impar.Add(item);
                 }
             }
-            foreach (var item in Par)
+            foreach(var item in Par)
             {
-            System.Console.WriteLine($"{Par} Par");
+                System.Console.WriteLine($"{item} Par");
             }
             System.Console.WriteLine();
             foreach (var item in impar)
