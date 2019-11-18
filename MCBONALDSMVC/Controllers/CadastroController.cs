@@ -1,5 +1,6 @@
 using System;
 using MCBONALDSMVC.Models;
+using MCBONALDSMVC.Models.Repositario;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,6 +8,9 @@ namespace MCBONALDSMVC.Controllers
 {
     public class CadastroController : Controller
     {
+
+        ClienteRepositariy clienteRepositariy = new ClienteRepositariy();
+        
         public IActionResult Index()
         {
             return View();
@@ -18,6 +22,7 @@ namespace MCBONALDSMVC.Controllers
             try
             {
                 Cliente cliente = new Cliente(form["nome"], form["endereco"], form["telefone"], form["senha"], form["email"], DateTime.Parse(form["data-nascimento"])); 
+                clienteRepositariy.Inserir(cliente);
                 return View("Sucesso");
             }
             catch(Exception e)

@@ -15,12 +15,15 @@ namespace MCBONALDSMVC.Controllers
             ViewData["NomeView"] = "Home";
             return View();
         }
-
-        public IActionResult Privacy()
+    public class HomeControllers : Controller
+    {
+        public IActionResult Index()
         {
+            ViewData["NomeView"] = "Home";
             return View();
         }
 
 
+    }
     }
 }
