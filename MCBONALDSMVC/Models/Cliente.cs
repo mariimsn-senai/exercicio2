@@ -23,8 +23,8 @@ namespace MCBONALDSMVC.Models
         public Cliente(string nome, string endereco, string telefone, string senha, string email, DateTime DataNascimento)
         {
             this.Nome = nome;
-            this.Endereço = endereco;
-            this.Telefone = Telefone;
+            this.Endereco = endereco;
+            this.Telefone = telefone;
             this.Senha = senha;
             this.Email = email;
             this.DataNascimento = DataNascimento;

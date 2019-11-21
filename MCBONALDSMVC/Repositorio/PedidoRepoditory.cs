@@ -1,9 +1,11 @@
+using System;
+using System.Collections.Generic;
 using System.IO;
 using MCBONALDSMVC.Models;
 
 namespace MCBONALDSMVC.Repositorio
 {
-    public class PedidoRepoditory
+    public class PedidoRepoditory : RepositoryBase
     {
         private const string PATH = "Database/Pedido.csv";
 
@@ -17,6 +19,44 @@ namespace MCBONALDSMVC.Repositorio
             var linha = new string[] {PrepararPedidoCSV(pedido)};
             File.AppendAllLines(PATH, linha);
             return true;
+        }
+
+        public List<Pedido> ObterTodos()
+        {
+            var linhas = File.ReadAllLines(PATH);
+            List<Pedido> pedidos = new List<Pedido>();
+            foreach (var linha in linhas)
+            {
+                Pedido pedido = new Pedido();
+                pedido.Cliente = new Cliente();
+                pedido.Cliente.Nome = ExtrairValorDoCampo("cliente_nome", linha);
+                pedido.Cliente.Endereco = ExtrairValorDoCampo("cliente_endereco", linha);
+                pedido.Cliente.Telefone = ExtrairValorDoCampo("cliente_telefone", linha);
+                pedido.Cliente.Email = ExtrairValorDoCampo("cliente_email", linha);
+                pedido.Hamburguer.Nome = ExtrairValorDoCampo("hamburguer_nome", linha);
+                pedido.Hamburguer.Preco = double.Parse(ExtrairValorDoCampo("hamburguer_preco", linha));
+                pedido.Shake.Nome = ExtrairValorDoCampo("shake_preco", linha);
+                pedido.Shake.Preco = double.Parse(ExtrairValorDoCampo("shake_preco", linha));
+                pedido.PrecoTotal = double.Parse(ExtrairValorDoCampo("preco_total", linha));
+                pedido.DataDoPedido = DateTime.Parse(ExtrairValorDoCampo("data_pedido", linha));
+                pedidos.Add(pedido);
+            }
+                return pedidos;
+        }
+
+        public List<Pedido> ObterTodosPorCliente(string emailCliente)
+        {
+            var pedidos = ObterTodos();
+            List<Pedido> pedidosCliente = new List<Pedido>();
+            foreach ( var pedido in pedidos)
+            {
+                //ve o pedido da cliente e ve se o email dele ja está logado
+                if(pedido.Cliente.Email.Equals(emailCliente))
+                {
+                    pedidosCliente.Add(pedido);
+                }
+            }
+            return pedidosCliente;
         }
 
         private string PrepararPedidoCSV(Pedido pedido)

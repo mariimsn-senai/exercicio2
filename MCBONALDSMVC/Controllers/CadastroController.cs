@@ -21,6 +21,9 @@ namespace MCBONALDSMVC.Controllers
             ViewData["Action"] = "Cadastro";
             try
             {
+                System.Console.WriteLine("===================");
+                System.Console.WriteLine(form["telefone"]);
+                System.Console.WriteLine("===================");
                 Cliente cliente = new Cliente(form["nome"], form["endereco"], form["telefone"], form["senha"], form["email"], DateTime.Parse(form["data-nascimento"])); 
                 clienteRepositariy.Inserir(cliente);
                 return View("Sucesso");
